@@ -90,7 +90,7 @@ pip install "fastapi[standard]"
 
 ## Retraining / regenerating the artifacts
 
-1. Run `Class_23_Sentiment_Analysis_FULL_IMDB_GLOVE.ipynb` on Kaggle or Colab.
+1. Run `fork-of-class-23-sentiment-analysis-full-977853496.ipynb` on Kaggle or Colab.
 2. Run the final cells (section 16), which save `gru_model.pt`, `word2idx.json` and `config.json` to `artifacts/`.
 3. Download those three files into this project's `artifacts/` folder.
 
