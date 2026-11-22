@@ -19,7 +19,7 @@ sentiment-api/
 │   ├── gru_model.pt      # Trained weights (state_dict)
 │   ├── word2idx.json     # Training vocabulary
 │   └── config.json       # Model configuration (vocab_size, embed_dim, hidden_size, num_layers, max_len)
-├── fork-of-class_23_Sentiment_Analysis_FULL_IMDB_GLOVE.ipynb   # Training notebook (+ artifact-saving cells)
+├── fork-of-class-23-sentiment-analysis-full-977853496.ipynb   # Training notebook (+ artifact-saving cells)
 ├── requirements.txt
 └── README.md
 ```
