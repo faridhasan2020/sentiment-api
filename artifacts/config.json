@@ -1,0 +1,7 @@
+{
+  "vocab_size": 10002,
+  "embed_dim": 100,
+  "hidden_size": 64,
+  "num_layers": 1,
+  "max_len": 200
+}
