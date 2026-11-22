@@ -1,6 +1,6 @@
 # Project 07 – GRU Sentiment Analysis API
 
-**GitHub repository:** https://github.com/<your-username>/sentiment-api   <!-- replace -->
+**GitHub repository:** https://github.com/faridhasan2020/sentiment-api
 
 **Model used:** GRU sentiment classifier trained on IMDB
 
